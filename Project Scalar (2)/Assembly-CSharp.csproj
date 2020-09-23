@@ -84,43 +84,43 @@
     <Compile Include="Assets\Scripts\UI scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\UI scripts\PauseMenu.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Polybrush">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.Polybrush.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.Polybrush.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Polybrush.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.Polybrush.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.Polybrush.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Game dev stuff/Project Scalar (2)/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>G:/My games/Project Scalar/Project Scalar (2)/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Game dev stuff/2019.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
