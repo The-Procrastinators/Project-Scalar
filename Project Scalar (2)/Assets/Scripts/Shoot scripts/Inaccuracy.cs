@@ -19,7 +19,7 @@ public class Inaccuracy : MonoBehaviour
     bool IsAiming;
 
     public Shoot pew;
-    public Playermovement PM;
+    public PlayerMovement PM;
 
     // After adding inventory,weapon and skill stat system, add modifier floats here.
 
